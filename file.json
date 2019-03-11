@@ -1,0 +1,22 @@
+{
+    "recordData" : {
+        "fieldNames" : [],
+        "records" : [
+            []
+        ],
+        "mapTemplateName" : null
+    },
+    "mergeRule" : {
+        "htmlValue" : "H",
+        "optinValue" : "I",
+        "textValue" : "T",
+        "insertOnNoMatch" : true,
+        "updateOnMatch" : "REPLACE_ALL",
+        "matchColumnName1" : "EMAIL_ADDRESS_",
+        "matchColumnName2" : "NOME",
+        "matchOperator" : "AND",
+        "optoutValue" : "O",
+        "rejectRecordIfChannelEmpty" : null,
+        "defaultPermissionStatus" : "OPTIN"
+    }
+}
